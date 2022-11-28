@@ -325,17 +325,17 @@ http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
 http://live.singamcloud.in:1935/mullaitv/mullaitv/playlist.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/GUkSjSLIORGZpV9yEFa_zs9YIOHTUHAq8WdbVM4aJgz_KoagK_QZbc0fh7J3LRlTz9M=w480-h960-rw" group-title="TLL Tamil LCO",Amma TV
 http://183.87.51.10:80/hls/ammatv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",KingStar TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZGXBxZr/King-Star-TV.png" group-title="TLL Tamil LCO",KingStar TV
 http://51.79.250.111:80/live/kstartv.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/ueEOuQo9xsBjqpEWA4vZe98J8BTsu5hkO0sbH_NRHlav1MIGdQE1_6GxUh5smV8w_Q=w480-h960-rw" group-title="TLL Tamil LCO",Ladhee TV
 http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8?hls_ctx=4u8jqsk5
-#EXTINF:-1 group-title="TLL Tamil LCO" , VEL TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fWnMJq/VEL-TV.png" group-title="TLL Tamil LCO" , VEL TV 
 http://live.singamcloud.in:1935/veltv/veltv/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", KRM TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z69Lsyp/KRM-TV.png" group-title="TLL Tamil LCO", KRM TV 
 http://media.7starcloud.com:1935/harimedia/krmtv/playlist.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/U_PsTNA85OpDnDpaL87_7ZRREXxpMqtjT0YRDmbbhuCnQ6jJ1TmlTtgnzZRAXiYVGg=w480-h960-rw" group-title="TLL Tamil LCO", ASAI TV 
 http://osaitv.livebox.co.in/aasaihls/live.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", JJ TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DKXdLsn/JJ-TV.png" group-title="TLL Tamil LCO", JJ TV 
 http://jaaltv.livebox.co.in/jjtvhls/live.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO", THULIR HD 
 http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
@@ -343,15 +343,15 @@ http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
 http://livematrix.in:80/sartv/sartv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",Maa Tv
 http://nextgeninfotech.ddns.net:8080/red/red.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", SAKTHI TV HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hxp5BT2/SAKTHI-TV-HD.png" group-title="TLL Tamil LCO", SAKTHI TV HD 
 http://nextgeninfotech.ddns.net:8080/sakthi/sakthi.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/1-SHfDgEcW14z8IEoJPrTbADKFToHRqvI54-hFuU8Hc9zY_jqCQlAKl8hysF4nfPNVk=w480-h960-rw" group-title="TLL Tamil LCO", ANNAI TV 
 http://nextgeninfotech.ddns.net:8080/annai/annai.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", GD TV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TPbB78V/GD-TV.png" group-title="TLL Tamil LCO", GD TV 
 http://nextgeninfotech.ddns.net:8080/gdtv/gdtv.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/bz7sFgFo_UOxXXuZ9AV_9VDzHGuSf4ZXS5HO42qfnwu6JfeeMLCcg7N2uzW2PSMtIxSM=w480-h960-rw" group-title="TLL Tamil LCO", SMILE TV HD 
 http://hdserver.7starcloud.com:1935/smile/livestream/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", 3StarHLS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/z4k81jZ/3StarHLS.png" group-title="TLL Tamil LCO", 3StarHLS
 http://jaaltv.livebox.co.in:80/3startvhls/live.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/fRjvaqAh--W_KphqTZyx9fZbArl3tZmnkyfHPL1aPYndd354xiCWiGlWL4GkUo4fJF6k=w480-h960-rw" group-title="TLL Tamil LCO", Dinesh TV 
 http://hdserver.7starcloud.com:1935/dinesh/tv/playlist.m3u8
@@ -359,7 +359,7 @@ http://hdserver.7starcloud.com:1935/dinesh/tv/playlist.m3u8
 http://hdserver.7starcloud.com:1935/jayaamtv/jayaamtv/playlist.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/y1I4aqAylLpNB3eNhF41eoeloYQtddkeWmX__noGzlC0zsJcp-yH_9V8M5_6MwcV2Q=w480-h960-rw" group-title="TLL Tamil LCO",AADHAVAN TV 
 http://7starcloud.com:1935/adhavantv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",SANGAMAM TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w62mByb/SANGAMAM-TV.png" group-title="TLL Tamil LCO",SANGAMAM TV
 http://livematrix.in:80/sangamamtv/sangamamtv.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FssTvTirupur.png?alt=media&token=dc4fcab3-dc91-4bf4-88d0-afdb1f445825" group-title="TLL Tamil LCO",SSTV
 http://68.183.82.116:8080/ssTV/ft86Iv8l.m3u8
@@ -371,19 +371,19 @@ http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/kvmtv321_low/index
 http://shinestream.in:1935/nilatv/nilatv/chunklist_w1227667328.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",JEEVAN TV
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",PHOENIX TVHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w6yxqvr/PHOENIX-TVHD.png" group-title="TLL Tamil LCO",PHOENIX TVHD
 http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",VEDHA TV
 http://conference1.livebox.co.in:80/vedhatvhls/live.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",NAMATHU SANGAMAM TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bghGwhw/NAMATHU-SANGAMAM-TV.png" group-title="TLL Tamil LCO",NAMATHU SANGAMAM TV
 http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",ANU TV
 http://live.singamcloud.in:1935/anutv/anutv/chunklist_w2122543863.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",ATN MEDIA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w6hmKHy/ATN-MEDIA-TV.png" group-title="TLL Tamil LCO",ATN MEDIA TV
 http://indiamatrix.in:80/atn/atn.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",NELLAITIMES TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YchgYs9/NELLAITIMES-TV.png" group-title="TLL Tamil LCO",NELLAITIMES TV
 http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",KCHANNEL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhBVCPK/KCHANNEL-TV.png" group-title="TLL Tamil LCO",KCHANNEL TV
 http://indiamatrix.in:80/kchannel/kchannel.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",VAAHINI TV
 https://5c75277727cd1.streamlock.net/livedemo/livedemo/playlist.m3u8
@@ -395,11 +395,11 @@ https://secure.streamplanet.tv/hls/tamilmagantvhd/master.m3u8
 http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",OSCAR TV PDY
 http://cdn.yoctoentertainment.com:8081/oscar/oscar.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",MALAIBOOMI TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3cfQkfG/MALAIBOOMI-TV.png" group-title="TLL Tamil LCO",MALAIBOOMI TV
 http://nextgeninfotech.ddns.net:8080/malaiboomi/malaiboomi.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",NILA TV
 http://indiamatrix.in/nilatv/nilatv.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO",SENTHUR TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ZbK04V/SENTHUR-TV.png" group-title="TLL Tamil LCO",SENTHUR TV
 http://nextgeninfotech.ddns.net:8080/senthur/senthur.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",MPTV TV
 http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8
