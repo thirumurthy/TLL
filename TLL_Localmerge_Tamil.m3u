@@ -539,8 +539,7 @@ http://bmlive.net:8000/visiontv/visiontv/bms.m3u8
 http://183.87.51.10/hls/gtv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/nUvWZMP7i5UhO7EgV9Vid6lKCvl_hbjp83CfL_RBM36jr1cVHzsi620OW7Wktrn09qs=w240-h480-rw" group-title="TLL Tamil LCO", G TV
 http://bmlive.net:8000/gtv/gtv/bms.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/wPylCqKTwngLazChwbiBkg85jC8r2oX0zS9NUzp4rJ7OrVmlpxiZHqj95w0HmLUMuvs=w240-h480-rw" group-title="TLL Tamil LCO", Digital TV HD
-rtmp://bmlive.net:1935/digitaltv/digitaltv
+
 
 
 #EXTM3U
@@ -583,6 +582,9 @@ http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunk
 
 #EXTINF:-1, tvg-id="abcmedias.com" group-title="TLL cloud tamil", Tirumalai TV KARUR
 http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/wPylCqKTwngLazChwbiBkg85jC8r2oX0zS9NUzp4rJ7OrVmlpxiZHqj95w0HmLUMuvs=w240-h480-rw" group-title="TLL cloud tamil", Digital TV HD
+rtmp://bmlive.net:1935/digitaltv/digitaltv
 
 #EXTINF:-1 tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg" group-title="TLL cloud tamil",7sMusic
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
