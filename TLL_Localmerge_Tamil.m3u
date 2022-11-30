@@ -246,6 +246,12 @@ http://bmlive.net:8000/karnan/rojatv/bms.m3u8
 http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/MKFWxDIFEocGOjWll97Ic2rsUDA9OaK6ZvjrdTrCWeE8BZoOZclCjXcmFoSGMbnNVrs=w240-h480-rw" group-title="TLL LOCAL HD",Nila TV Erode
 http://7starcloud.com:1935/nilatv/livetv/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL LOCAL HD", Vaigai TV 
+https://video.vaigaitv.com:8080/hls/live1/index.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL LOCAL HD", Vaigai Madurai TV 
+https://video.vaigaitv.com:8080/hls/live2/index.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL LOCAL HD", Vaigai Virudhunagar TV 
+https://video.vaigaitv.com:8080/hls/live3/index.m3u8
 
 
 #EXTM3U
@@ -521,6 +527,20 @@ https://live1.sscloud7.com/hls/omsakthitv.m3u8
 https://stream.sscloud7.com/hls/vetritv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/06zwyNI-I6ez-vk23NPJfoTYfhyJEAJzhqczjYnon2ypvPj0sNHx9xvFo794bHfVqw=w480-h960-rw" group-title="TLL Tamil LCO",U TV
 http://shinestream.in:1935/utv/utv/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/JI-DVNi8xjTF6CFswGZM191UpI6xJz0_19R259nkHyE94BrVB3qCU2zgKUlH10OlVaU=w240-h480-rw" group-title="TLL Tamil LCO", Amn Tv
+https://sscloud7.com/hls/amntv.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/PXOY1MBiS8D9gcoQbw3g05syoU9oeEZJDyqMWyawbOd3kulaFpMDO_0B0mIWHXGnTxE=w240-h480-rw" group-title="TLL Tamil LCO", JJ7 Tv
+http://stream.applelive.in:8000/appletv/jjseven/bms.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/wOu4K0Rlh5yCMDn0a7z-OBvypUO9Ub4YAPIptU2dLtvetv4SHWIFIQ1BdE2i-csTPTo=w240-h480-rw" group-title="TLL Tamil LCO", Rowthiram TV
+http://web.applelive.in/hls/rowthiramtv.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/wE4aG-yKf0OL_XR6rlxNmQobL8Bu2cMYpUBTubettnwcttNbsMBaqZ-X5WjRd63nzZI=w240-h480-rw" group-title="TLL Tamil LCO", apple plus
+http://bmlive.net:8000/visiontv/visiontv/bms.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/dU2w3eCjd-u5ifnlcaoPiQFdbiSKwIWVP6fH9z9aDmVkV22p3syf02ZYrKfKNm8bqiU=w240-h480-rw" group-title="TLL Tamil LCO", G TV HD
+http://183.87.51.10/hls/gtv.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/nUvWZMP7i5UhO7EgV9Vid6lKCvl_hbjp83CfL_RBM36jr1cVHzsi620OW7Wktrn09qs=w240-h480-rw" group-title="TLL Tamil LCO", G TV
+http://bmlive.net:8000/gtv/gtv/bms.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/wPylCqKTwngLazChwbiBkg85jC8r2oX0zS9NUzp4rJ7OrVmlpxiZHqj95w0HmLUMuvs=w240-h480-rw" group-title="TLL Tamil LCO", Digital TV HD
+rtmp://bmlive.net:1935/digitaltv/digitaltv
 
 
 #EXTM3U
