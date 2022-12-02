@@ -9,7 +9,7 @@ https://live.sscloud7.com/hls/livesaitv.m3u8
 http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
 #EXTINF:-1 ,tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="TLL MUSIC", RAM TV
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1619361525_srmusic.jpg" group-title="TLL MUSIC", SR Musix
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1619361525_srmusic.jpg" group-title="TLL MUSIC", SR Musix TV
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/H49Tz6g/sachinmusic.jpg" group-title="TLL MUSIC",SACHIN MUSIC TV
 https://stream.sscloud7.com/sachinmusic.m3u8
