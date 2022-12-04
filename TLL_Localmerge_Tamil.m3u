@@ -149,6 +149,8 @@ http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
 http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/ZwLLZvlCycg-kKXJt_B_vuLW_0l4RtE0idDYt7qur77GGwawnhrTkf5oNj6aA9qogg=w480-h960-rw" group-title="TLL LOCAL HD", BlueSky TV
 http://7starcloud.com:1935/bluesky/blueskytv/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/JI-DVNi8xjTF6CFswGZM191UpI6xJz0_19R259nkHyE94BrVB3qCU2zgKUlH10OlVaU=w240-h480-rw" group-title="TLL LOCAL HD", Amn Tv
+https://sscloud7.com/hls/amntv.m3u8
 #EXTINF:-1,tvg-logo = "https://i.ibb.co/kDLTPGT/DHARANI-tv.png" group-title="TLL LOCAL HD", DHARANI TV 
 http://stream.singamcloud.in/dharanitv/dharanitv/index.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/zDAnyaHHoDF0_pTrXGB_BR41BAfVbYWZfkxEp0ZW3RNLciv0TxFqc_-sx8AD_b1Is6dh=w240-h480-rw" group-title="TLL LOCAL HD",LOTUS TV 
@@ -533,8 +535,6 @@ https://live1.sscloud7.com/hls/omsakthitv.m3u8
 https://stream.sscloud7.com/hls/vetritv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/06zwyNI-I6ez-vk23NPJfoTYfhyJEAJzhqczjYnon2ypvPj0sNHx9xvFo794bHfVqw=w480-h960-rw" group-title="TLL Tamil LCO",U TV
 http://shinestream.in:1935/utv/utv/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/JI-DVNi8xjTF6CFswGZM191UpI6xJz0_19R259nkHyE94BrVB3qCU2zgKUlH10OlVaU=w240-h480-rw" group-title="TLL Tamil LCO", Amn Tv
-https://sscloud7.com/hls/amntv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/PXOY1MBiS8D9gcoQbw3g05syoU9oeEZJDyqMWyawbOd3kulaFpMDO_0B0mIWHXGnTxE=w240-h480-rw" group-title="TLL Tamil LCO", JJ7 Tv
 http://stream.applelive.in:8000/appletv/jjseven/bms.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/wOu4K0Rlh5yCMDn0a7z-OBvypUO9Ub4YAPIptU2dLtvetv4SHWIFIQ1BdE2i-csTPTo=w240-h480-rw" group-title="TLL Tamil LCO", Rowthiram TV
