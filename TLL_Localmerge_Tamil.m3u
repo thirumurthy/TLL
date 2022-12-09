@@ -565,9 +565,6 @@ http://annaitv.livebox.co.in/annailivehls/live.m3u8
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="TLL Tamil LCO", Suriya TV
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/suriyatv123_low/index.m3u8
-#EXTINF:-1, tvg-logo="" group-title="TLL Tamil LCO", Zara TV
-http://bmlive.net:8000/zaratv/zaratv/bms.m3u8
-
 
 
 #EXTM3U
