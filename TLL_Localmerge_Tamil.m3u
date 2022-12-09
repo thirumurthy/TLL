@@ -139,6 +139,8 @@ https://mobile.iptelevision.in/hls/accordvoice.m3u8
 http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="TLL LOCAL HD",Suriyan Nextgen TV
 http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/2xq8zdJoEf5rRhWZRGLR_2A11i0yU-i3wvffX891cI6puDy5XHImfe82BThOllyOBHU=w240-h480-rw" group-title="TLL LOCAL HD", Sucess TV
+https://5c75277727cd1.streamlock.net/succestv/succestv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1620050127_TamilStar.jpg" group-title="TLL LOCAL HD", Tamil Star TV
 http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWk5PWQ/OSCAR-TV.png" group-title="TLL LOCAL HD", OSCAR TV 
@@ -265,14 +267,16 @@ http://7starcloud.com:1935/nilatv/livetv/playlist.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://phoenixcreations.online/server2/phoenixtv/img/core-img/phoenixlogo.png" group-title="TLL Tamil LCO", PHEONIX HD 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vZ18yiS9gOenA4opyOQR00F-Zfkf2gYJSVEUPSOPrl8J5JzT1Pl-Wdss0KD2sBlfo08=w240-h480-rw" group-title="TLL Tamil LCO", PHEONIX HD 
 http://server2.phoenixcreations.online:5080/live/streams/phoenixtv.m3u8
-#EXTINF:-1 tvg-logo="http://phoenixcreations.online/server2/suriyantv/img/core-img/suriyantv.jpg" group-title="TLL Tamil LCO",SURIYAN TV HD 
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/suriyantv.png" group-title="TLL Tamil LCO",SURIYAN TV HD 
 http://server2.phoenixcreations.online:5080/live/streams/suriyantv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/0gyxXVfumzvALZF5twb2EPNMyqP6G43lJgBDJlbjBenoZne7LjTHW9Ds76XE2NZYD7jx=w480-h960-rw" group-title="TLL Tamil LCO",JENIFER TVHD
 http://server2.phoenixcreations.online:5080/live/streams/jenifertv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/hpvq0ism_mxJ87OtthUglCRBMkG5-7qo-sjRj1kS5P961p4kcw50qMT0xGRI5-vZhVMh=w480-h960-rw"group-title="TLL Tamil LCO",Jose TV
 http://server2.phoenixcreations.online:5080/live/streams/josetv.m3u8
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/subashtv/img/core-img/subashtv.png" group-title="TLL Tamil LCO",Subash TV
+http://server2.phoenixcreations.online:5080/live/streams/subashtv.m3u8
 #EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/omtv.png" group-title="TLL Tamil LCO", OM Tamil TV
 http://server2.phoenixcreations.online:5080/live/streams/omtv.m3u8
 #EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/mithratv.png" group-title="TLL Tamil LCO", Mithra TV
@@ -293,7 +297,7 @@ http://server2.phoenixcreations.online:5080/live/streams/sarathatv.m3u8
 http://server2.phoenixcreations.online:5080/live/streams/rktv.m3u8
 #EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sachintv/img/core-img/sachintv.png" group-title="TLL MUSIC", Sachin Main TV
 http://server2.phoenixcreations.online:5080/live/streams/sachintv.m3u8
-#EXTINF:-1 tvg-logo="http://phoenixcreations.online/server2/skymedia/img/core-img/skymedia.png" group-title="TLL Tamil LCO",Sky media TV
+#EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/skymedia.png" group-title="TLL Tamil LCO",Sky media TV
 http://server2.phoenixcreations.online:5080/live/streams/skymedia.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OVdwUScDMv8cbhiVbeA66MEgKDgDRpzZw1JQahCDOgvrNDremjXZJM4uL-D2VE2WggJT=w480-h960-rw" group-title="TLL Tamil LCO",RAGHUL TV
 http://server2.phoenixcreations.online:5080/live/streams/raghultv.m3u8
@@ -301,8 +305,6 @@ http://server2.phoenixcreations.online:5080/live/streams/raghultv.m3u8
 http://server2.phoenixcreations.online:5080/live/streams/toptv.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8XdTvNaO4rS038acfQ1dnjXArh7rlkTl-SyNc-bHayck_v8IVhT-NbOxB4mXzmZpSk=w480-h960-rw" group-title="TLL Tamil LCO",LIME TV
 http://server2.phoenixcreations.online:5080/live/streams/limetv.m3u8
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/subashtv/img/core-img/subashtv.png" group-title="TLL Tamil LCO",Subash TV
-http://server2.phoenixcreations.online:5080/live/streams/subashtv.m3u8
 #EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/jayamtv.png" group-title="TLL Tamil LCO", Jayam TV
 https://live.sscloud7.com/jayamtv.m3u8
 #EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/maatv.png" group-title="TLL Tamil LCO", MAA TV
@@ -519,6 +521,8 @@ http://198.144.149.82:8080/NOTV/STVMP/index.m3u8?token=GTR
 http://198.144.149.82:8080/NOTV/SRIARJUNTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://i.ibb.co/93nS0LN/UDHAYAM-TV.png" group-title="TLL Tamil LCO",UDHAYAM TV
 http://bmlive.net:8000/udhayamtv/udhayamtv/bms.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/qmCI2Sg4AiONasVOWjdiemrX_dXykpzXvYvjdAHdU9ZdFbQiCnuRa7-iZC8vq_KIQQ=w240-h480-rw" group-title="TLL Tamil LCO", OM Devotional TV
+http://7starcloud.com:1935/omtv/omtv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FroyalHd.png?alt=media&token=6648446d-5844-4fb6-9eae-c9f41a7acc39" " group-title="TLL Tamil LCO", Royal HD
 http://bmlive.net:8000/dsrchannel/theniroyal/bms.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FdsrTv.png?alt=media&token=f8f05862-4ee0-4eeb-9765-0915702babc7" " group-title="TLL Tamil LCO", DSR TV
@@ -555,6 +559,14 @@ http://bmlive.net:8000/visiontv/visiontv/bms.m3u8
 http://183.87.51.10/hls/gtv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/nUvWZMP7i5UhO7EgV9Vid6lKCvl_hbjp83CfL_RBM36jr1cVHzsi620OW7Wktrn09qs=w240-h480-rw" group-title="TLL Tamil LCO", G TV
 http://bmlive.net:8000/gtv/gtv/bms.m3u8
+#EXTINF:-1, tvg-logo="" group-title="TLL Tamil LCO", Annai TV
+http://annaitv.livebox.co.in/annailivehls/live.m3u8
+#EXTINF:-1, tvg-logo="" group-title="TLL Tamil LCO", Sigaram TV
+http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="TLL Tamil LCO", Suriya TV
+http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/suriyatv123_low/index.m3u8
+#EXTINF:-1, tvg-logo="" group-title="TLL Tamil LCO", Zara TV
+http://bmlive.net:8000/zaratv/zaratv/bms.m3u8
 
 
 
