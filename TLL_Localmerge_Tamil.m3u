@@ -299,7 +299,7 @@ http://server1.phoenixcreations.online:1935/live/vimaltv/playlist.m3u8
 http://server1.phoenixcreations.online:1935/sarathatv/sarathatv/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://hellophoenix.online/server2/rktv/img/core-img/rktv.png" group-title="TLL Tamil LCO",RK TV 
 http://server1.phoenixcreations.online:1935/rktv/rktv/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sachintv/img/core-img/sachintv.png" group-title="TLL MUSIC", Sachin Main TV
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sachintv/img/core-img/sachintv.png" group-title="TLL Tamil LCO", Sachin Main TV
 http://server1.phoenixcreations.online:1935/live/sachintv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/skymedia.png" group-title="TLL Tamil LCO",Sky media TV
 http://server1.phoenixcreations.online:1935/live/skymedia/playlist.m3u8
@@ -489,8 +489,6 @@ http://bmlive.net:8000/karnan/karthimovie/bms.m3u8
 http://7starcloud.com:1935/sangamagold/sangamagold/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9dsBjg/SKYTV-Tamil-TV.png" group-title="TLL Tamil LCO",SKYTV Tamil TV 
 http://bmlive.net:8000/appletv/skytvhd/bms.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JB03V2V/MADDY-TV.png" group-title="TLL Tamil LCO",MADDY TV 
-http://198.144.149.82:8080/NOTV/MADDYTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tm3Bdsn/Velavan-TV.png" group-title="TLL Tamil LCO",Velavan TV 
 https://server3.iptelevision.in/hls/dharapuram.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQZN9JL/Bharani-Media-TV.png" group-title="TLL Tamil LCO",Bharani Media TV 
