@@ -299,7 +299,7 @@ http://server1.phoenixcreations.online:1935/live/vimaltv/playlist.m3u8
 http://server1.phoenixcreations.online:1935/sarathatv/sarathatv/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://hellophoenix.online/server2/rktv/img/core-img/rktv.png" group-title="TLL Tamil LCO",RK TV 
 http://server1.phoenixcreations.online:1935/rktv/rktv/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sachintv/img/core-img/sachintv.png" group-title="TLL Tamil LCO", Sachin Main TV
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/sachintv/img/core-img/sachintv.png" group-title="TLL Tamil LCO", Dhoni TV
 http://server1.phoenixcreations.online:1935/live/sachintv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/skymedia.png" group-title="TLL Tamil LCO",Sky media TV
 http://server1.phoenixcreations.online:1935/live/skymedia/playlist.m3u8
