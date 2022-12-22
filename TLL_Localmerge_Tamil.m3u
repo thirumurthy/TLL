@@ -6,6 +6,8 @@ http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1657428997_VinMusic.jpg" group-title="TLL MUSIC", VINAYAGA MUSIC TV 
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671547589_FINAL;.PNG" group-title="TLL MUSIC", Agni TV
+https://live.singamcloud.in/agnitv/agnitv/index.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671461148_IMG-20221214-WA0003.jpg" group-title="TLL MUSIC", NJ TV
 https://server.ashokatv.com/hls/nj.m3u8
 #EXTINF:-1, tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG6917.png" group-title="TLL MUSIC", Params TV
@@ -130,21 +132,21 @@ http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 http://bmlive.net:8000/appletv/jjmax/bms.m3u8
 
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1671632526_logo.png" group-title="TLL LOCAL HD", Sri TV
-http://media.7starcloud.com:1935/harimedia/sritv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT=w240-h480-rw" group-title="TLL LOCAL HD", Surya TV
-http://media.7starcloud.com:1935/harimedia/suryatv/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1671630680_logo.png" group-title="TLL LOCAL HD", AadhiTV
 http://media.7starcloud.com:1935/harimedia/aadhitv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671547589_FINAL;.PNG" group-title="TLL LOCAL HD", Agni TV
-https://live.singamcloud.in/agnitv/agnitv/index.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/izaQp_W1pZqa_fKqG0fGcWv9ls74BpIE-W1yOZBiw-gG0bSrcBNIvw3EY9SR4RyQYAlT=w240-h480-rw" group-title="TLL LOCAL HD", Surya TV
+http://media.7starcloud.com:1935/harimedia/suryatv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616494049_abm.png" group-title="TLL LOCAL HD", ABM TV
 http://singamcloud.in/abmtv/abmtv/index.m3u8
 #EXTINF:-1, tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG29693.png" group-title="TLL LOCAL HD", Srini TV
 http://7starcloud.com:1935/live/srini/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG43242.png" group-title="TLL LOCAL HD", Deepam TV
 http://ss.7starcloud.com:1935/live/deepam/playlist.m3u8
-
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1671632526_logo.png" group-title="TLL LOCAL HD", Sri TV
+http://media.7starcloud.com:1935/harimedia/sritv/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602562865_1596280518_AnumanTV.png" group-title="TLL LOCAL HD", Anuman TV
+http://media.7starcloud.com:1935/harimedia/anumantv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://eyetamil.tv/stream/Live-Streaming-Poster.jpg" group-title="TLL LOCAL HD", Eye Tamil TV
 https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
