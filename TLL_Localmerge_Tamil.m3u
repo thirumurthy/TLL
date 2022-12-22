@@ -8,6 +8,8 @@ http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671547589_FINAL;.PNG" group-title="TLL MUSIC", Agni TV
 https://live.singamcloud.in/agnitv/agnitv/index.m3u8
+#EXTINF:-1, tvg-logo="https://i.ibb.co/JWLDq8j/dcn.png" group-title="TLL MUSIC",DCN TV
+http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671461148_IMG-20221214-WA0003.jpg" group-title="TLL MUSIC", NJ TV
 https://server.ashokatv.com/hls/nj.m3u8
 #EXTINF:-1, tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG6917.png" group-title="TLL MUSIC", Params TV
@@ -16,14 +18,6 @@ http://7starcloud.com:1935/live/params/playlist.m3u8
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/L9Rd82m/sai.png" group-title="TLL MUSIC",LIVESAI Music TV
 https://live.sscloud7.com/hls/livesaitv.m3u8
-#EXTINF:-1, tvg-logo="https://i.ibb.co/JWLDq8j/dcn.png" group-title="TLL MUSIC",DCN TV
-http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL MUSIC", Vaigai Music TV 
-https://video.vaigaitv.com:8080/hls/live1/index.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL MUSIC", Vaigai Music Madurai  
-https://video.vaigaitv.com:8080/hls/live2/index.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL MUSIC", Vaigai Music Virudhunagar  
-https://video.vaigaitv.com:8080/hls/live3/index.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1619361525_srmusic.jpg" group-title="TLL MUSIC", SR Musix TV
 http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/H49Tz6g/sachinmusic.jpg" group-title="TLL MUSIC",SACHIN MUSIC TV
@@ -32,6 +26,12 @@ https://stream.sscloud7.com/sachinmusic.m3u8
 http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/bHsuYmx55Izpn6SQxKmWbBHAsojgkQ7LcAVuP_4UuEft3v0LDeuxZUFpLniSzqLb8v81=w240-h480-rw" group-title="TLL MUSIC",MALAR TV UHD 
 http://server1.phoenixcreations.online:1935/live/malartv/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL MUSIC", Vaigai Music TV 
+https://video.vaigaitv.com:8080/hls/live1/index.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL MUSIC", Vaigai Music Madurai  
+https://video.vaigaitv.com:8080/hls/live2/index.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL MUSIC", Vaigai Music Virudhunagar  
+https://video.vaigaitv.com:8080/hls/live3/index.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="TLL MUSIC", Apple TV
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/RpGyrxK/singam.jpg" group-title="TLL MUSIC",SINGAM TV 
@@ -168,6 +168,8 @@ http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
 http://stream.ashokaserver.in/hls/oscartv.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652844953_acncinima.png" group-title="TLL LOCAL HD", ACN Cinema
 http://198.144.149.82:8080/AMMA/ACNCINEMA/index.m3u8?token=AMMA
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1619603196_1597555908_kalaiisai copy.jpg" group-title="TLL LOCAL HD", Kalai Cinema Tv
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="TLL LOCAL HD", Reach TV
 http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/zxBJ272qbvEnSMvf6wwvQHNSDj-xqEHiDPX9pAqLeROJ5sxSv285l-NFFoPPMxr8s1Rj=w480-h960-rw" group-title="TLL LOCAL HD", Silversat Pondy TV
