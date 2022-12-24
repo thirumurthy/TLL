@@ -169,8 +169,8 @@ http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
 http://stream.ashokaserver.in/hls/oscartv.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652844953_acncinima.png" group-title="TLL LOCAL HD", ACN Cinema
 http://198.144.149.82:8080/AMMA/ACNCINEMA/index.m3u8?token=AMMA
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1619603196_1597555908_kalaiisai copy.jpg" group-title="TLL LOCAL HD", Kalai Cinema Tv
-http://singamcloud.in/kalai/kalaiisai/index.m3u8
+#EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616232574_kalaichinema.png" group-title="TLL LOCAL HD", Kalai Cinema Tv
+http://singamcloud.in/kalai/kalaicinema/index.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="TLL LOCAL HD", Reach TV
 http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/zxBJ272qbvEnSMvf6wwvQHNSDj-xqEHiDPX9pAqLeROJ5sxSv285l-NFFoPPMxr8s1Rj=w480-h960-rw" group-title="TLL LOCAL HD", Silversat Pondy TV
