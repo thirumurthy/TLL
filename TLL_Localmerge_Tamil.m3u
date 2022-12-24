@@ -585,6 +585,10 @@ http://bmlive.net:8000/visiontv/visiontv/bms.m3u8
 http://183.87.51.10/hls/gtv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/nUvWZMP7i5UhO7EgV9Vid6lKCvl_hbjp83CfL_RBM36jr1cVHzsi620OW7Wktrn09qs=w240-h480-rw" group-title="TLL Tamil LCO", G TV
 http://bmlive.net:8000/gtv/gtv/bms.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/ctn.png" group-title="TLL Tamil LCO", CTN TV
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/ctnconn.png" group-title="TLL Tamil LCO", CTN(Connor)
+http://bmlive.net:8000/ctn/ctn/bms.m3u8
 #EXTINF:-1, tvg-logo="" group-title="TLL Tamil LCO", Annai TV
 http://annaitv.livebox.co.in/annailivehls/live.m3u8
 #EXTINF:-1, tvg-logo="" group-title="TLL Tamil LCO", Sigaram TV
@@ -695,9 +699,6 @@ http://198.144.149.82:8080/NOTV/ORANGETV/index.m3u8?token=GTR
 
 #EXTINF:-1 tvg-logo="https://harisofttecch.in/tamiltvlive//upload/jm.png" group-title="TLL cloud tamil",JM TV
 http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
-
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/ctnconn.png" group-title="TLL cloud tamil", CTN(Connor)
-http://bmlive.net:8000/ctn/ctn/bms.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TLL cloud tamil",Vaanavil TV
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
