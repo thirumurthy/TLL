@@ -441,6 +441,8 @@ http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
 http://indiamatrix.in:80/kchannel/kchannel.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",VAAHINI TV
 https://5c75277727cd1.streamlock.net/livedemo/livedemo/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1669361700_shalini.png" group-title="TLL Tamil LCO", Shalini TV
+http://bmlive.net:8000/Raja/shalinitvtvm/bms.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FthalapathyvjTv.jpg?alt=media&token=7c61347b-d5bb-4dd7-ba28-346edfb71011" " group-title="TLL Tamil LCO", Thalapathyvj TV
 http://stream.applemedianetwork.com/hls/thalapathytv.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO",TAMILMAGAN HD TV
