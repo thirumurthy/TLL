@@ -18,7 +18,7 @@ http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671461148_IMG-20221214-WA0003.jpg" group-title="TLL MUSIC", NJ TV
 https://server.ashokatv.com/hls/nj.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Sai TV
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL MUSIC",Sai TV
 https://sscloud7.com/hls/saitv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QxadK0MHS7txDkDYQcAgTRpUGmXSiYlkF3R0542GRoy21gSQqzedS8wgeWTOgzGrJA=w480-h960-rw" group-title="TLL MUSIC", VINAYAGA TV 
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
