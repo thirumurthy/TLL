@@ -810,6 +810,8 @@ https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
 https://5dd6ead5cf411.streamlock.net/ttnlive/live/playlist.m3u8
 
 #EXTM3U testing
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/2M_W94_-VqCKw4gB__in107P3JhsYrjmu8UvcS01t6BWCTpH3VmLz_lpFuNXKBJYATc=w240-h480-rw" group-title="TLL TEST", Nature 4k TV
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw" group-title="TLL TEST", Tharani TV
 http://indiamatrix.in/tharanitv/tharanitv.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="TLL TEST", Reach TV
