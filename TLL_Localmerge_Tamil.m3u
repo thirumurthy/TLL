@@ -613,6 +613,10 @@ http://annaitv.livebox.co.in/annailivehls/live.m3u8
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="TLL Tamil LCO", Suriya TV
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/suriyatv123_low/index.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw" group-title="TLL Tamil LCO", Tharani TV
+http://indiamatrix.in/tharanitv/tharanitv.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="TLL Tamil LCO", Reach TV
+http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
 
 
 #EXTM3U
@@ -806,10 +810,7 @@ https://5dd6ead5cf411.streamlock.net/ttnlive/live/playlist.m3u8
 
 #EXTM3U testing
 
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw" group-title="TLL TEST", Tharani TV
-http://indiamatrix.in/tharanitv/tharanitv.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="TLL TEST", Reach TV
-http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
+
 #EXTINF:-1, tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG29693.png" group-title="TLL TEST", Srini TV
 http://7starcloud.com:1935/live/srini/playlist.m3u8
 #EXTINF:-1 group-title="TLL TEST",KAPPA TV 
