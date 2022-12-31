@@ -290,6 +290,18 @@ http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 http://7starcloud.com:1935/nilatv/livetv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/P9wuarZwGcZLHAlPRPPFgR-FH798KEr2lNNAgD_Jv3yLvTSD50vlW5JciFHPjs-RtVk=w240-h480-rw" group-title="TLL LOCAL HD", Universe TV
 https://account24.livebox.co.in/UNIVERSETVhls/live.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/slnRZFTAYvHnbZswuAUnLo8jjtkVU2bhyZLalhlpF13dtAjRMR0oLonP6xb0hIX6Fh7d=w240-h480-rw" group-title="TLL LOCAL HD",Sri Krishna TV Media
+https://stream.sscloud7.com/hls/krishantv.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="TLL LOCAL HD",KMD TV 
+http://account2.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Vanavil TV 
+https://stream1.playbox.co.in:2000/tunein/vanaviltv/v/m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Vanavil Plus TV
+https://sscloud7.com/hls/vanavilpluskarur.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Sai TV
+https://sscloud7.com/hls/saitv.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Vanavil Musiq TV
+https://murugan.iptelevision.in/hls/vanavilmusiq.m3u8
 
 #EXTM3U
 
