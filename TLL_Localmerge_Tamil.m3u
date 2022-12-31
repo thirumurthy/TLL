@@ -809,8 +809,6 @@ https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
 https://5dd6ead5cf411.streamlock.net/ttnlive/live/playlist.m3u8
 
 #EXTM3U testing
-
-
 #EXTINF:-1, tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG29693.png" group-title="TLL TEST", Srini TV
 http://7starcloud.com:1935/live/srini/playlist.m3u8
 #EXTINF:-1 group-title="TLL TEST",KAPPA TV 
