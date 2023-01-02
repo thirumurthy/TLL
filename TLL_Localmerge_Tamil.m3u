@@ -167,6 +167,8 @@ https://stream6.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
 https://live1.sscloud7.com/hls/vedhatv.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/molRWS7IdDHX34_-IXORodnxm3SbZewNLS3OuImchXUV8ZM4nPW6huF3HzX1lDG_yqE=w240-h480-rw" group-title="TLL LOCAL HD",Dharshan Kanchi TV
 http://198.144.149.82:8080/NOTV/DHARSANTV/index.m3u8?token=GTR 
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw" group-title="TLL LOCAL HD", Tharani TV
+http://indiamatrix.in/tharanitv/tharanitv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/JI-DVNi8xjTF6CFswGZM191UpI6xJz0_19R259nkHyE94BrVB3qCU2zgKUlH10OlVaU=w240-h480-rw" group-title="TLL LOCAL HD", Amn Tv
 https://sscloud7.com/hls/amntv.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1620050127_TamilStar.jpg" group-title="TLL LOCAL HD", Tamil Star TV
@@ -626,8 +628,6 @@ http://annaitv.livebox.co.in/annailivehls/live.m3u8
 http://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
 #EXTINF:-1, tvg-logo="" group-title="TLL Tamil LCO", Suriya TV
 http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/suriyatv123_low/index.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/_smsBrHVxinnf0O3LrdJv4Q4DhOnov57LDmmcZGVDBWD3Z0VhXnaJPrSetdOIwTc-g=w240-h480-rw" group-title="TLL Tamil LCO", Tharani TV
-http://indiamatrix.in/tharanitv/tharanitv.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1650450417_Reach TV Logos 2.png" group-title="TLL Tamil LCO", Reach TV
 http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
 
