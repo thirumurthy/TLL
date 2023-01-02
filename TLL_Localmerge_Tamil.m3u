@@ -134,9 +134,10 @@ https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/play
 http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FjjMaxHd.png?alt=media&token=0c58b222-6cb5-4ee4-b17e-750dc4bb86db" " group-title="TLL MUSIC", JJ Max HD
 http://bmlive.net:8000/appletv/jjmax/bms.m3u8
+#EXTINF:-1, tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG29693.png" group-title="TLL MUSIC", Srini TV
+http://7starcloud.com:1935/live/srini/playlist.m3u8
 
 #EXTM3U
-
 
 #EXTINF:-1, tvg-logo="https://eyetamil.tv/stream/Live-Streaming-Poster.jpg" group-title="TLL LOCAL HD", Eye Tamil TV
 https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
@@ -821,14 +822,10 @@ https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
 https://5dd6ead5cf411.streamlock.net/ttnlive/live/playlist.m3u8
 
 #EXTM3U testing
-#EXTINF:-1, tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG29693.png" group-title="TLL TEST", Srini TV
-http://7starcloud.com:1935/live/srini/playlist.m3u8
+
 #EXTINF:-1, tvg-logo="" group-title="TLL TEST",pallavan_tv
 http://198.144.149.82:8080/NOTV/PALLAVATV/index.m3u8?token=GTR
 #EXTINF:-1 group-title="TLL TEST",KAPPA TV 
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1,group-title="TLL TEST", live streaming
-rtmp://nazking.dscloud.me:1935/livestream/stream
-#EXTINF:-1 tvg-id="1" tvg-logo="http://cineosai.xyz/uploads/system_logo/logo_633197bb7b1a8.png" group-title="TLL TEST",CineOsai HD TV
-http://nazking.dscloud.me:8282/livestream/stream.m3u8
+
 
