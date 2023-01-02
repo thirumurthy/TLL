@@ -6,6 +6,8 @@ http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616494049_abm.png" group-title="TLL MUSIC", ABM TV
 http://singamcloud.in/abmtv/abmtv/index.m3u8
+#EXTINF:-1,tvg-logo= “ https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw“ group-title=”TLL MUSIC”,Vmuisk TV
+https://server.iptelevision.in/hls/vmuisk.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671547589_FINAL;.PNG" group-title="TLL MUSIC", Agni TV
 https://live.singamcloud.in/agnitv/agnitv/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/sJXCrQz/kalai-isai.png" group-title="TLL MUSIC",KALAI ISAI 
