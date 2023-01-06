@@ -124,8 +124,6 @@ http://singamcloud.in/purpletv/purpletv/index.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",M MUSIC 
 https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 group-title="TLL MUSIC",SS TV 
-http://hdserver.7starcloud.com:1935/live/ss/playlist.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",YATRA TV 
 http://media.7starcloud.com:1935//harimedia/yatratv/playlist.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/jS4G7vxBQsLVxwZ7KC2sKzC4fg6PbdU0fg29tli57_fF6wRUA6De79VhrtJzyyZh7qw=w240-h480-rw" group-title="TLL MUSIC",CSK TV 
 http://7starcloud.com:1935/csktv/live/playlist.m3u8
