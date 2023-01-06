@@ -820,8 +820,7 @@ https://5dd6ead5cf411.streamlock.net/ttnlive/live/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="TLL TEST",pallavan_tv
 http://198.144.149.82:8080/NOTV/PALLAVATV/index.m3u8?token=GTR
-#EXTINF:-1 group-title="TLL TEST",KAPPA TV 
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+
 
 
 
