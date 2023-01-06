@@ -33,7 +33,7 @@ http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/H49Tz6g/sachinmusic.jpg" group-title="TLL MUSIC",SACHIN MUSIC TV
 https://stream.sscloud7.com/sachinmusic.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/bHsuYmx55Izpn6SQxKmWbBHAsojgkQ7LcAVuP_4UuEft3v0LDeuxZUFpLniSzqLb8v81=w240-h480-rw" group-title="TLL MUSIC",MALAR TV UHD 
-http://server1.phoenixcreations.online:1935/live/malartv/playlist.m3u8
+http://malartv.phoenixcreations.online:1935/live/malartv/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL MUSIC", Vaigai Music TV 
 https://video.vaigaitv.com:8080/hls/live1/index.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL MUSIC", Vaigai Music Madurai  
@@ -314,7 +314,7 @@ https://account24.livebox.co.in/UNIVERSETVhls/live.m3u8
 
 #EXTM3U
 
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/bHsuYmx55Izpn6SQxKmWbBHAsojgkQ7LcAVuP_4UuEft3v0LDeuxZUFpLniSzqLb8v81=w240-h480-rw" group-title="TLL MUSIC",MALAR TV UHD 
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/bHsuYmx55Izpn6SQxKmWbBHAsojgkQ7LcAVuP_4UuEft3v0LDeuxZUFpLniSzqLb8v81=w240-h480-rw" group-title="TLL Tamil LCO",MALAR TV UHD 
 http://malartv.phoenixcreations.online:1935/live/malartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vZ18yiS9gOenA4opyOQR00F-Zfkf2gYJSVEUPSOPrl8J5JzT1Pl-Wdss0KD2sBlfo08=w240-h480-rw" group-title="TLL Tamil LCO", PHEONIX HD 
 http://server2.phoenixcreations.online:5080/live/streams/phoenixtv.m3u8
