@@ -7,7 +7,7 @@ https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 #EXTINF:-1 ,tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="TLL MUSIC", RAM TV
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616494049_abm.png" group-title="TLL MUSIC", ABM TV
+#EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616494049_abm.png" group-title="TLL MUSIC", ABM HD TV
 http://singamcloud.in/abmtv/abmtv/index.m3u8
 #EXTINF:-1,tvg-logo=  "https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title= "TLL MUSIC",Vmuisk TV
 https://server.iptelevision.in/hls/vmuisk.m3u8
