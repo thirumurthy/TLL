@@ -634,6 +634,10 @@ http://nextgeninfotech.ddns.net:8080/reachone/reachone.m3u8
 
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1670026189_rgtv.png" group-title="TLL_Harisofttech", RG TV
 http://new.7starcloud.com:1935/rgtv/live/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669978029_stv.jpg" group-title="TLL_Harisofttech", S TV
+http://bmlive.net:8000/karnan/stvhd/bms.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669958345_RTV.jpg" group-title="TLL_Harisofttech", R TV
+http://bmlive.net:8000/robertsagayadoss/rtvtrichy/bms.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669968495_jayan.jpg" group-title="TLL_Harisofttech", Jeiyan TV
 http://198.144.149.206:8080/NOTV/JEIYANTV/index.m3u8?token=GTR
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669967959_smart.jpg" group-title="TLL_Harisofttech", Smart TV
@@ -666,8 +670,6 @@ https://live1.sscloud7.com/hls/omsakthitv.m3u8
 http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669958967_HariTV.jpg" group-title="TLL_Harisofttech", Hari TV
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669958345_RTV.jpg" group-title="TLL_Harisofttech", R TV
-http://bmlive.net:8000/robertsagayadoss/rtvtrichy/bms.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669958722_jeyam.jpg" group-title="TLL_Harisofttech", Jeyam TV
 http://bmlive.net:8000/jeyamtvhd/jeyamtv/bms.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669958890_aadhavan.jpg" group-title="TLL_Harisofttech", Aadhavan TV
@@ -686,8 +688,6 @@ http://hdserver.7starcloud.com:1935/dinesh/tv/playlist.m3u8
 http://site1.ultramaxnet.com/client/hls/namma-ooru-tv/kavintv/index.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669977401_krishna.jpg" group-title="TLL_Harisofttech", Krishna TV
 http://media.7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669978029_stv.jpg" group-title="TLL_Harisofttech", S TV
-http://bmlive.net:8000/karnan/stvhd/bms.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669978329_krishna TCode.jpg" group-title="TLL_Harisofttech", Krishna T Gode
 http://media.7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669978447_rcn.jpg" group-title="TLL_Harisofttech", RCN TV
