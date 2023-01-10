@@ -660,7 +660,7 @@ http://7starcloud.com:1935/sanatv/sanatv/platlist.m3u8
 http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669968335_vinmusic.jpg" group-title="TLL_Harisofttech", Vinayaga Music
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669968374_vinhd.jpg" group-title="TLL_Harisofttech", Vinayaga HD
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669968374_vinhd.jpg" group-title="TLL_Harisofttech", Vinayaga HD TV
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669970414_thalapathi.jpg" group-title="TLL_Harisofttech", Thalapathy TV
 http://stream.applemedianetwork.com/hls/thalapathytv.m3u8
@@ -854,8 +854,6 @@ https://askmedia.livebox.co.in/DanComodyhls/9.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: EET TV" tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png" group-title="TLL cloud tamil", EET TV
 https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SL-TAM: EET TV - L2" tvg-logo="https://tv.eettv.com/img/logo.42bc01ec.png" group-title="TLL cloud tamil", EET TV - L2
-https://eu.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: SHAKTHI TV" tvg-logo="https://shakthitv.lk/wp-content/uploads/2021/12/shakthi-tv-logo-90.png" group-title="TLL cloud tamil", SHAKTHI TV
 http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: SHAKTHI TV-L2" tvg-logo="https://shakthitv.lk/wp-content/uploads/2021/12/shakthi-tv-logo-90.png" group-title="TLL cloud tamil", SHAKTHI TV - L2
