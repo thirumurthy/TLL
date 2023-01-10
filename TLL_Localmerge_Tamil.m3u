@@ -648,6 +648,12 @@ http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
 http://new.7starcloud.com:1935/anatham/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669977840_aadhavancolor.jpg" group-title="TLL_Harisofttech", Aadhavan Colours TV
 http://bmlive.net:8000/amirtharaj/amirtharajlive/bms.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1670252528_IMG-20221205-WA0084.jpg" group-title="TLL_Harisofttech", KARTHIK TV
+http://bmlive.net:8000/skmedia/karthiktv/bms.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1670298849_IMG-20221206-WA0012.jpg" group-title="TLL_Harisofttech", VISION TV
+http://bmlive.net:8000/VIJAYARUL/ahcomedy/bms.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669969207_aanandsang.jpg" group-title="TLL_Harisofttech", Aananda Sangamam TV
+http://Anantham.7starcloud.com:1935/anantham/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1597734373_sana.png" group-title="TLL_Harisofttech", Sana TV
 http://7starcloud.com:1935/sanatv/sanatv/platlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1670049765_snanplus.png" group-title="TLL_Harisofttech", Sana Plus
@@ -656,12 +662,6 @@ http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669968374_vinhd.jpg" group-title="TLL_Harisofttech", Vinayaga HD
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1670252528_IMG-20221205-WA0084.jpg" group-title="TLL_Harisofttech", KARTHIK TV
-http://bmlive.net:8000/skmedia/karthiktv/bms.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1670298849_IMG-20221206-WA0012.jpg" group-title="TLL_Harisofttech", VISION TV
-http://bmlive.net:8000/VIJAYARUL/ahcomedy/bms.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669969207_aanandsang.jpg" group-title="TLL_Harisofttech", Aananda Sangamam TV
-http://Anantham.7starcloud.com:1935/anantham/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669970414_thalapathi.jpg" group-title="TLL_Harisofttech", Thalapathy TV
 http://stream.applemedianetwork.com/hls/thalapathytv.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669970836_omsakthi.jpg" group-title="TLL_Harisofttech", Om Sakthi TV
