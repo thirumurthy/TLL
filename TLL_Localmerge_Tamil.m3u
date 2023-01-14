@@ -138,8 +138,8 @@ http://bmlive.net:8000/appletv/jjmax/bms.m3u8
 http://7starcloud.com:1935/live/srini/playlist.m3u8
 
 #EXTM3U
-
-
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/vbZoQ_FhjkyDcPLsYtTQQ9oKLyKv038OJXNTpytGeIi8P7sRVo141KWGCe9zKAbbAw=w480-h960-rw" group-title="TLL LOCAL HD", Kongu TV
+http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://eyetamil.tv/stream/Live-Streaming-Poster.jpg" group-title="TLL LOCAL HD", Eye Tamil TV
 https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616232574_kalaichinema.png" group-title="TLL LOCAL HD", Kalai Cinema Tv
