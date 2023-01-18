@@ -6,6 +6,8 @@ https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 #EXTINF:-1 ,tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="TLL MUSIC", RAM TV
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/xo3385PT6qrdy2uxYAxOhGd3xqludQDCtJezJ8hp-k19dGb5c4pBqyB8n0RTuGOl6Q=w240-h480-rw" group-title="TLL MUSIC", RIO TV 
+http://singamcloud.in/riotv/riotv/index.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616494049_abm.png" group-title="TLL MUSIC", ABM HD TV
 http://singamcloud.in/abmtv/abmtv/index.m3u8
 #EXTINF:-1,tvg-logo=  "https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title= "TLL MUSIC",Vmuisk TV
@@ -364,8 +366,6 @@ http://limetv.phoenixcreations.online:1935/live/limetv/playlist.m3u8
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vZ18yiS9gOenA4opyOQR00F-Zfkf2gYJSVEUPSOPrl8J5JzT1Pl-Wdss0KD2sBlfo08=w240-h480-rw" group-title="TLL Tamil LCO", PHEONIX HD 
 http://server2.phoenixcreations.online:5080/live/streams/phoenixtv.m3u8
-
-
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QsnylhFqQb15A_JxFJYEDt7V4akveg9096XkzSyg0Ol32OYENNbph8IfTWrr3EJXsg=w480-h960-rw" group-title="TLL Tamil LCO", KUMARI TV 
 http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FttvKanchi.png?alt=media&token=f8a85b44-9cb0-4572-affd-ff7a8ebe134b" group-title="TLL Tamil LCO",TTV KANCHI 
@@ -376,8 +376,6 @@ http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
 http://livematrix.in:80/bamahd/bamahd.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/H7kNzJXx6X3Cjge9pY2CsOPPIbIqcLxfoK4__7hheXRoAQPRdZNepG0vyst8fvwGE7g=w480-h960-rw" group-title="TLL Tamil LCO",BOSS TV
 http://183.87.51.10:80/hls/vasantv.m3u8
-#EXTINF:-1,group-title="TLL Tamil LCO", RIO TV 
-http://stream.singamcloud.in/riotv/riotv/index.m3u8
 #EXTINF:-1 tvg-logo="http://phoenixcreations.online/server2/phoenixtv/img/core-img/phoenixlogo.png" group-title="TLL Tamil LCO",PHOENIX 
 http://103.88.77.238:8081/phoenix/phoenix.m3u8
 #EXTINF:-1 group-title="TLL Tamil LCO", lee tv 
