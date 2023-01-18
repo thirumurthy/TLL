@@ -726,6 +726,14 @@ http://new.7starcloud.com:1935/king/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1670334736_IMG-20221201-WA0154.jpg" group-title="TLL_Harisofttech", IZZATH TV
 http://new.7starcloud.com:1935/itv/livestream/playlist.m3u8
 
+#EXTM3U
+
+#EXTINF:-1,tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652844987_acnmusic.png" group-title="Testing",ACN Music TV
+http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652844953_acncinima.png" group-title="Testing", ACN Cinema
+http://198.144.149.82:8080/AMMA/ACNCINEMA/index.m3u8?token=AMMA
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652845027_arasan.png" group-title="Testing", Arasan TV
+http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
 
 
 #EXTM3U
