@@ -106,8 +106,8 @@ http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
 http://stream.singamcloud.in/skytv/skytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTv.jpeg?alt=media&token=2d75cfc4-e8cf-4b66-a11f-87a7f00949e6" " group-title="TLL MUSIC", Apple TV
 https://eagle.iptelevision.in/hls/appletv.m3u8
-#EXTINF:-1 group-title="TLL MUSIC",G TV
-http://live.singamcloud.in:1935/gtv/gtv/playlist.m3u8
+#EXTINF:-1,tvg-logo ="https://play-lh.googleusercontent.com/z_LORRc5kjc2_5UBVLP2pk7xVZ2sOSyBtQli5LXtix9nwdJ9rNuSCNelIDvq7oafww=w240-h480-rw"  group-title="TLL MUSIC",G TV
+http://live.singamcloud.in/gtv/gtv/index.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/2ct5ZeeG3pEr3ZYvbuI2GYTpVaHMztM3M1Paawdbob3dGnqz7KQO4aMSGIWoGwAXUg=w240-h480-rw" group-title="TLL MUSIC",N MUSIC TV 
 http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
 #EXTINF:-1, tvg-logo= "https://i.ibb.co/pyx28Ly/ss-varma.png" group-title="TLL MUSIC",SS VARMA 
@@ -322,8 +322,10 @@ http://selfietv.phoenixcreations.online:1935/selfietv/selfietv/chunklist_w156940
 http://msmadhantv.phoenixcreations.online:1935/msmadhantv/msmadhantv/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/jayamtv.png" group-title="TLL Tamil LCO", Jayam TV
 https://live.sscloud7.com/hls/jayamtv.m3u8
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/ddtv.png" group-title="TLL Tamil LCO", DD TV
-http://ddtv.phoenixcreations.online:1935/ddtv/ddtv/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/livetv/sachinmedialivebanner.png" group-title="TLL Tamil LCO",Sachinmedia TV  
+http://sachin.phoenixcreations.online:1935/sachinmedia/sachinmedia/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/livetv/jpriyatvlivebanner.png" group-title="TLL Tamil LCO",JPriya TV  
+http://jpriya.phoenixcreations.online:1935/jpriya/jpriya/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://hellophoenix.online/server2/queentv/img/core-img/queentv.png" group-title="TLL Tamil LCO", Queen TV
 http://queentv.phoenixcreations.online:1935/queentv/queentv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/suriyantv.png" group-title="TLL Tamil LCO",SURIYAN TV HD 
@@ -366,6 +368,10 @@ http://limetv.phoenixcreations.online:1935/live/limetv/playlist.m3u8
 http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vZ18yiS9gOenA4opyOQR00F-Zfkf2gYJSVEUPSOPrl8J5JzT1Pl-Wdss0KD2sBlfo08=w240-h480-rw" group-title="TLL Tamil LCO", PHEONIX HD 
 http://server2.phoenixcreations.online:5080/live/streams/phoenixtv.m3u8
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/ddtv.png" group-title="TLL Tamil LCO", DD TV
+http://ddtv.phoenixcreations.online:1935/ddtv/ddtv/playlist.m3u8
+#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/livetv/sr7tvlivebanner.png" group-title="TLL Tamil LCO",SR7 TV 
+http://sr7tv.phoenixcreations.online:1935/sr7tv/sr7tv/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QsnylhFqQb15A_JxFJYEDt7V4akveg9096XkzSyg0Ol32OYENNbph8IfTWrr3EJXsg=w480-h960-rw" group-title="TLL Tamil LCO", KUMARI TV 
 http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FttvKanchi.png?alt=media&token=f8a85b44-9cb0-4572-affd-ff7a8ebe134b" group-title="TLL Tamil LCO",TTV KANCHI 
@@ -640,6 +646,8 @@ http://bmlive.net:8000/robertsagayadoss/rtvtrichy/bms.m3u8
 http://198.144.149.206:8080/NOTV/JEIYANTV/index.m3u8?token=GTR
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669967959_smart.jpg" group-title="TLL_Harisofttech", Smart TV
 http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/C7EHcwmGYcEEoy_NY4rzILxTE58OwQ7di6-yvpewVWXQijFu2ZOhZNQd6MtazgWXoxJB=w240-h480-rw" group-title="TLL_Harisofttech",Visaka TV  
+http://live.singamcloud.in/visakatv/visakatv/index.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669908733_AARTHI TV LOGO BOX copy.jpg" group-title="TLL_Harisofttech", Aarthi TV
 http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669988791_anandgopi.jpg" group-title="TLL_Harisofttech", Aanandam TV Gopi
