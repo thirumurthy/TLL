@@ -2,7 +2,6 @@
 
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/8NQpb1KJAVzpw4iSA9-s1f0_V07msj70cj_iGgpC1H5SoOWRf5wslO23Eh7dyKeIyaQ=w240-h480-rw" group-title="TLL MUSIC",BS HD TV 
 https://g5nl63palpq6-hls-live.5centscdn.com/blacksheep/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-
 #EXTINF:-1 ,tvg-logo="https://play-lh.googleusercontent.com/HEk0WTQHETlK7JKt9r9AE84B4_pdMjkSmrdeX33pThUcAA1_wCLC7oCDJPmPwKxizg=w240-h480-rw" group-title="TLL MUSIC", RAM TV
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/xo3385PT6qrdy2uxYAxOhGd3xqludQDCtJezJ8hp-k19dGb5c4pBqyB8n0RTuGOl6Q=w240-h480-rw" group-title="TLL MUSIC", RIO TV 
@@ -11,6 +10,10 @@ http://singamcloud.in/riotv/riotv/index.m3u8
 http://singamcloud.in/abmtv/abmtv/index.m3u8
 #EXTINF:-1,tvg-logo=  "https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title= "TLL MUSIC",Vmuisk TV
 https://server.iptelevision.in/hls/vmuisk.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL MUSIC",Vanavil Plus TV
+https://rasi.iptelevision.in/hls/vanaviltv.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL MUSIC",Vanavil TN TV
+https://server1.iptelevision.in/vanaviltvtn.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671547589_FINAL;.PNG" group-title="TLL MUSIC", Agni TV
 https://live.singamcloud.in/agnitv/agnitv/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/sJXCrQz/kalai-isai.png" group-title="TLL MUSIC",KALAI ISAI 
@@ -35,14 +38,14 @@ http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
 https://stream.sscloud7.com/sachinmusic.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/bHsuYmx55Izpn6SQxKmWbBHAsojgkQ7LcAVuP_4UuEft3v0LDeuxZUFpLniSzqLb8v81=w240-h480-rw" group-title="TLL MUSIC",MALAR TV UHD 
 http://malartv.phoenixcreations.online:1935/live/malartv/chunklist_w490883281.m3u8
-#EXTINF:-1,tvg-logo = "https://tse3.mm.bing.net/th?id=OIP.m0eImuUux_fFvD-Qxn6veQHaHa&pid=Api&P=0" group-title="TLL MUSIC", ARUL TV 
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/EZxDa_u0zrBcd5DbpExFWvBeuY5S_th6nZFzsNpFOo7B_DgjHwWvx6egQjaM96tEzA=w240-h480-rw" group-title="TLL MUSIC", ARUL TV 
 https://eagle.iptelevision.in/hls/arultv.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL MUSIC", Vaigai Music TV 
-https://video.vaigaitv.com:8080/hls/live1/index.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL MUSIC", Vaigai Music Madurai  
-https://video.vaigaitv.com:8080/hls/live2/index.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/smOBC_sewgZ6hExhJsD-7jxEVSm1XlfNzSDLOAVQTtbYwyGBh4hCj7JU4uPErd4sfoZ2=w240-h480-rw" group-title="TLL MUSIC", Vaigai Music Virudhunagar  
-https://video.vaigaitv.com:8080/hls/live3/index.m3u8
+#EXTINF:-1,tvg-logo="http://antv1.vaigaitv.com/livetv/images/live_icon.jpg" group-title="TLL MUSIC", Vaigai Music Chennai 
+http://vai.ddns.net:1935/vtvchn/chennai/playlist.m3u8
+#EXTINF:-1,tvg-logo="http://antv1.vaigaitv.com/livetv/images/mdu-vaigaitv-tn-01.jpg" group-title="TLL MUSIC", Vaigai Music Madurai  
+http://vai.ddns.net:1935/mdu1/vaigaitv/playlist.m3u8
+#EXTINF:-1,tvg-logo="http://antv1.vaigaitv.com/livetv/images/vnr-vaigaitv-tn-01.jpg" group-title="TLL MUSIC", Vaigai Music Virudhunagar  
+http://vai.ddns.net:1935/vnr/vaigaitv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FappleTV.png?alt=media&token=274d0d25-e522-4909-9a40-2f4821820889" " group-title="TLL MUSIC", Apple TV
 http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/RpGyrxK/singam.jpg" group-title="TLL MUSIC",SINGAM TV 
@@ -151,16 +154,14 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 https://server1.iptelevision.in/hls/actv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/Ak8-KveanR1axcKSz-fjqbEY9FCR-6rj7Trkr7f6TXJjIVQnFoVbFgmh8u2pmcD_R30=w240-h480-rw" group-title="TLL LOCAL HD",AccordVoice TV
 https://mobile.iptelevision.in/hls/accordvoice.m3u8
+#EXTINF:-1,tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG_20221229_111656_094.jpg" group-title="TLL LOCAL HD",Kalam TV
+http://web.applelive.in/hls/kalamtv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QYrdCO51kpYXwWJAWn-rxuQnH1gmENN64SULFaK2jp8JZfTkNnZCU8XOXXDJ5d2ZYTg=w240-h480-rw" group-title="TLL LOCAL HD",VDS TV
 http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="TLL LOCAL HD",Suriyan Nextgen TV
 http://nextgeninfotech.ddns.net:8080/suriyan/suriyan.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TWk5PWQ/OSCAR-TV.png" group-title="TLL LOCAL HD", OSCAR TV 
 http://bmlive.net:8000/oscarmedianetwork/oscartvhd/bms.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Vanavil Plus TV
-https://rasi.iptelevision.in/hls/vanaviltv.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL LOCAL HD",Vanavil TN TV
-https://server1.iptelevision.in/vanaviltvtn.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/QA3P57Fy_wkicZk26xrbmemgxfHm0nz5r9qM55n2Cb4QQQXHN9v81xzEVa8HqGXNWA=w240-h480-rw" group-title="TLL LOCAL HD",KMD TV
 https://stream6.livebox.co.in/IMAGESEQUENCEhls/live.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/BJ9AD-guLna15UC8QMCD7peFpRIwHWS-gtmDhvrEZ-EuHqV7-sJB_GKDUwI1LE4E5e8=w240-h480-rw" group-title="TLL LOCAL HD",Vedha TV
