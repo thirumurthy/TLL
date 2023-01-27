@@ -146,6 +146,8 @@ http://7starcloud.com:1935/live/srini/playlist.m3u8
 http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://eyetamil.tv/stream/Live-Streaming-Poster.jpg" group-title="TLL LOCAL HD", Eye Tamil TV
 https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tvg-logo=" " group-title="TLL LOCAL HD", Media24 HD TV
+http://cloudstream4k.com:1935/bskdemo4/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616232574_kalaichinema.png" group-title="TLL LOCAL HD", Kalai Cinema Tv
 http://singamcloud.in/kalai/kalaicinema/index.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602562799_1597387259_7star copy.jpg" group-title="TLL LOCAL HD", 7Star TV
