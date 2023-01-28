@@ -158,6 +158,8 @@ https://server1.iptelevision.in/hls/actv.m3u8
 https://mobile.iptelevision.in/hls/accordvoice.m3u8
 #EXTINF:-1,tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG_20221229_111656_094.jpg" group-title="TLL LOCAL HD",Kalam TV
 http://web.applelive.in/hls/kalamtv.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/JxLcHa3FnVKUjTXeizAR_SNBDwbF0RPhMZiOq7QeIiHBAMvE1vWwhq0pEFBetfnnjYug=w240-h480-rw" group-title="TLL LOCAL HD",KK TV
+http://wmoy8ngoy2a7-hls-live.5centscdn.com/kktamiltv/livetv/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QYrdCO51kpYXwWJAWn-rxuQnH1gmENN64SULFaK2jp8JZfTkNnZCU8XOXXDJ5d2ZYTg=w240-h480-rw" group-title="TLL LOCAL HD",VDS TV
 http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/u0ndHTPvSCF7poOyJijw6n6UyX-hm9Sy2SP7lwyoNY8MDQttZI-9DKa657iuBJbaOw=w240-h480-rw" group-title="TLL LOCAL HD",Suriyan Nextgen TV
