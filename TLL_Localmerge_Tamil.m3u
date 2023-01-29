@@ -84,7 +84,7 @@ http://198.144.149.82:8080/NOTV/SKYTV/index.m3u8?token=GTR
 http://hdserver.singamcloud.in:1935/yogaatv/yogaatv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/XyJv2Kt/bouns-hd-tv.png" group-title="TLL MUSIC",BONUS HD TV 
 http://singamcloud.in:80/bonushd/bonushd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,group-title="TLL MUSIC",JR TV
+#EXTINF:-1, tvg-logo = "https://play-lh.googleusercontent.com/Sek9UmXQ5dBH8UvY0rbdmfTuU3lj4imOqgavGh5n2PmjgDPRjZ5CHpVoPNO_GWy8qeY=w240-h480-rw" group-title="TLL MUSIC",JR TV
 https://live1.sscloud7.com/jrtv.m3u8
 #EXTINF:-1,tvg-logo= "https://play-lh.googleusercontent.com/pPoBvo5fJNJap5b1Ipnb9pFjpujkT4i36Z3T9lLObbTv2LAWrtx9pATJafAua9mCJao=w240-h480-rw" group-title="TLL MUSIC",SAFFRON HD
 http://139.99.96.93:1935/saffrontv/saffrontv/chunklist_w1829280668.m3u8
@@ -146,7 +146,7 @@ http://7starcloud.com:1935/live/srini/playlist.m3u8
 http://new.7starcloud.com:1935/kongu/tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://eyetamil.tv/stream/Live-Streaming-Poster.jpg" group-title="TLL LOCAL HD", Eye Tamil TV
 https://live.eyetamil.tv/tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, tvg-logo=" " group-title="TLL LOCAL HD", Media24 HD TV
+#EXTINF:-1, tvg-logo="https://image.pitchbook.com/OSufbDIEOugTlZRBGfp7Ug9MFMp1605446001086_200x200" group-title="TLL LOCAL HD", Media24 HD TV
 http://cloudstream4k.com:1935/bskdemo4/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616232574_kalaichinema.png" group-title="TLL LOCAL HD", Kalai Cinema Tv
 http://singamcloud.in/kalai/kalaicinema/index.m3u8
