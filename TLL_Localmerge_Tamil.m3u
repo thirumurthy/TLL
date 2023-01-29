@@ -321,26 +321,16 @@ https://sscloud7.com/hls/malartv.m3u8
 https://sscloud7.com/hls/galaxytv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QsnylhFqQb15A_JxFJYEDt7V4akveg9096XkzSyg0Ol32OYENNbph8IfTWrr3EJXsg=w480-h960-rw" group-title="TLL Tamil LCO", KUMARI TV 
 http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FttvKanchi.png?alt=media&token=f8a85b44-9cb0-4572-affd-ff7a8ebe134b" group-title="TLL Tamil LCO",TTV KANCHI 
-http://198.144.149.82:8080/NOTV/TTV/index.m3u8
 #EXTINF:-1,tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FbhavaniSangamamTv.png?alt=media&token=38795242-d3ca-4b47-954e-a9a66d0777e0" group-title="TLL Tamil LCO",Bhavani Sangmam TV
 http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/dFwaSTm2m91d1PrCHW-u6f3gwodMUA_uU9rtQyFkj5_de0E6U-SJh3KQlHtMNOXoug=w480-h960-rw" group-title="TLL Tamil LCO",BAMA HD TV
 http://livematrix.in:80/bamahd/bamahd.m3u8
-#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/H7kNzJXx6X3Cjge9pY2CsOPPIbIqcLxfoK4__7hheXRoAQPRdZNepG0vyst8fvwGE7g=w480-h960-rw" group-title="TLL Tamil LCO",BOSS TV
-http://183.87.51.10:80/hls/vasantv.m3u8
 #EXTINF:-1 tvg-logo="http://phoenixcreations.online/server2/phoenixtv/img/core-img/phoenixlogo.png" group-title="TLL Tamil LCO",PHOENIX 
 http://103.88.77.238:8081/phoenix/phoenix.m3u8
-#EXTINF:-1 group-title="TLL Tamil LCO", lee tv 
-http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/ipNLjnWHp41wBRC3zHFUevgLYpnFgRBAV2T_6ysUTpy1JQdldRlv5Mm-cMdosi4rf3yb=w480-h960-rw" group-title="TLL Tamil LCO",Chakra TV
 http://shinestream.in:1935/chakratv/chakratv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602166664_VIP.png" group-title="TLL Tamil LCO", VIP Hari TV
 http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZcXdmD/YESMAN-TV.png" group-title="TLL Tamil LCO",YESMAN TV 
-http://198.144.149.82:8080/NOTV/YESMANTV/index.m3u8?token=GTR
-#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/xWUy2hdD4_TPBo--rcz8zS8VvgmreogUKQrIWdiEAwvtO5RxvvFr5rDT_QCDxxtV0w=w480-h960-rw" group-title="TLL Tamil LCO",ANANDHA 4K TV
-http://198.144.149.82:8080/NOTV/ANANDHATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/e22HfP3hakgbdYXzZLtIrwDNlYJyq-U0TeBy3bXKp3kr_emkIuvD8HPnf8-71fC37_Q=w480-h960-rw" group-title="TLL Tamil LCO",VASANTH TV
 http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
 #EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/U7--vTQgnWuU3m4G53waPRm7zMxlPI7qf35fA5lhzd6co3w8CYkhqxRpaPEt_LdAepo=w480-h960-rw" group-title="TLL Tamil LCO",RPK TVHD
@@ -746,7 +736,8 @@ http://new.7starcloud.com:1935/itv/livestream/playlist.m3u8
 
 
 #EXTM3U
-
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/D4O6QmZlFb8GzYYSCbSAir2_6bACOHtHBFxFgqMgDtSYGhLCMawbPR_D-AEDYv4tYuE=w240-h480-rw" group-title="Testing",Rainbow Tv
+http://198.144.149.82:8080/NOTV/RAINBOWTV/index.m3u8?token=GTR
 #EXTINF:-1,tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652844987_acnmusic.png" group-title="Testing",ACN Music TV
 http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1652844953_acncinima.png" group-title="Testing", ACN Cinema
@@ -755,6 +746,17 @@ http://198.144.149.82:8080/AMMA/ACNCINEMA/index.m3u8?token=AMMA
 http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/JxLcHa3FnVKUjTXeizAR_SNBDwbF0RPhMZiOq7QeIiHBAMvE1vWwhq0pEFBetfnnjYug=w240-h480-rw" group-title="Testing",KK TV
 http://wmoy8ngoy2a7-hls-live.5centscdn.com/kktamiltv/livetv/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FttvKanchi.png?alt=media&token=f8a85b44-9cb0-4572-affd-ff7a8ebe134b" group-title="Testing",TTV KANCHI 
+http://198.144.149.82:8080/NOTV/TTV/index.m3u8
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/H7kNzJXx6X3Cjge9pY2CsOPPIbIqcLxfoK4__7hheXRoAQPRdZNepG0vyst8fvwGE7g=w480-h960-rw" group-title="Testing",BOSS TV
+http://183.87.51.10:80/hls/vasantv.m3u8
+#EXTINF:-1 group-title="Testing", lee tv 
+http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9ZcXdmD/YESMAN-TV.png" group-title="Testing",YESMAN TV 
+http://198.144.149.82:8080/NOTV/YESMANTV/index.m3u8?token=GTR
+#EXTINF:-1,tvg-logo = "https://play-lh.googleusercontent.com/xWUy2hdD4_TPBo--rcz8zS8VvgmreogUKQrIWdiEAwvtO5RxvvFr5rDT_QCDxxtV0w=w480-h960-rw" group-title="Testing",ANANDHA 4K TV
+http://198.144.149.82:8080/NOTV/ANANDHATV/tracks-v1a1/mono.m3u8
+
 
 
 #EXTM3U
