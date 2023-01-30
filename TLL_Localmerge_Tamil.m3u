@@ -939,9 +939,8 @@ https://brtam.akamaized.net/btamil/smil:btamil.smil/playlist.m3u8
 http://45.77.66.224:1935/athavantv/live_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="ttn.tv" tvg-name="UK-TAM: TTN TV" tvg-logo="https://ttn.tv/public/logo.png" group-title="TLL cloud tamil",UK-TAM: TTN - France
 https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
-#EXTINF:-1 tvg-id="ttn.tv" tvg-name="UK-TAM: TTN TV -L2" tvg-logo="https://ttn.tv/public/logo.png" group-title="TLL cloud tamil",UK-TAM: TTN - France-L2
-https://5dd6ead5cf411.streamlock.net/ttnlive/live/playlist.m3u8
 
+#Ending
 
 
 
