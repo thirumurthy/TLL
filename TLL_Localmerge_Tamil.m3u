@@ -329,9 +329,9 @@ http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
 http://livematrix.in:80/bamahd/bamahd.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="TLL Tamil LCO",Cheran TV
 http://web.applelive.in/hls/cherantv.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/vlsz7Sg7MZfHBl36jvoAi34cnoWaUm5hqfnmhmZjIe-0ERa3qUCXqYXL1mLXx_iSfg=w240-h480-rw" " group-title="TLL LOCAL HD", Mirchi TV 
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/vlsz7Sg7MZfHBl36jvoAi34cnoWaUm5hqfnmhmZjIe-0ERa3qUCXqYXL1mLXx_iSfg=w240-h480-rw" group-title="TLL LOCAL HD", Mirchi TV 
 http://new.7starcloud.com:1935/mercy/live/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/p1B4pyWoxYu599TLLA_MVac6oBdb-GXSIEjiD8ySsA4dYXlZwLIkkDz7vBheZBFUz3bZ=w240-h480-rw" " group-title="TLL LOCAL HD", Varnam TV 
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/p1B4pyWoxYu599TLLA_MVac6oBdb-GXSIEjiD8ySsA4dYXlZwLIkkDz7vBheZBFUz3bZ=w240-h480-rw" group-title="TLL LOCAL HD", Varnam TV 
 rtmp://183.87.51.10:1935/stream/varnamtv?pass=20000
 #EXTINF:-1 tvg-logo="http://phoenixcreations.online/server2/phoenixtv/img/core-img/phoenixlogo.png" group-title="TLL Tamil LCO",PHOENIX 
 http://103.88.77.238:8081/phoenix/phoenix.m3u8
