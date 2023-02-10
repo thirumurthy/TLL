@@ -313,8 +313,6 @@ http://7starcloud.com:1935/nilatv/livetv/playlist.m3u8
 https://account24.livebox.co.in/UNIVERSETVhls/live.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/vlsz7Sg7MZfHBl36jvoAi34cnoWaUm5hqfnmhmZjIe-0ERa3qUCXqYXL1mLXx_iSfg=w240-h480-rw" group-title="TLL LOCAL HD", Mirchi HD TV
 http://new.7starcloud.com:1935/mercy/live/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/p1B4pyWoxYu599TLLA_MVac6oBdb-GXSIEjiD8ySsA4dYXlZwLIkkDz7vBheZBFUz3bZ=w240-h480-rw" group-title="TLL LOCAL HD", Varnam TV
-rtmp://183.87.51.10:1935/stream/varnamtv?pass=20000
 
 
 #EXTM3U TLL Tamil LCO
