@@ -12,6 +12,8 @@ https://server.iptelevision.in/hls/vmuisk.m3u8
 https://rasi.iptelevision.in/hls/vanaviltv.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL MUSIC",Vanavil TN TV
 https://server1.iptelevision.in/vanaviltvtn.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/NA8O_CP6g-UxPf5-YAjjo3o__EmjTnZHuoIbeO9mFQmmc0iOWPS6wmRCC476fYaIhZT9=w240-h480-rw" group-title="TLL MUSIC",Sai TV
+https://sscloud7.com/hls/saitv.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671547589_FINAL;.PNG" group-title="TLL MUSIC", Agni TV
 https://live.singamcloud.in/agnitv/agnitv/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/sJXCrQz/kalai-isai.png" group-title="TLL MUSIC",KALAI ISAI 
@@ -24,8 +26,6 @@ http://7starcloud.com:1935/dcntv/dcntv/playlist.m3u8
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671461148_IMG-20221214-WA0003.jpg" group-title="TLL MUSIC", NJ TV
 https://server.ashokatv.com/hls/nj.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/NA8O_CP6g-UxPf5-YAjjo3o__EmjTnZHuoIbeO9mFQmmc0iOWPS6wmRCC476fYaIhZT9=w240-h480-rw" group-title="TLL MUSIC",Sai TV
-https://sscloud7.com/hls/saitv.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QxadK0MHS7txDkDYQcAgTRpUGmXSiYlkF3R0542GRoy21gSQqzedS8wgeWTOgzGrJA=w480-h960-rw" group-title="TLL MUSIC", VINAYAGA TV 
 http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/L9Rd82m/sai.png" group-title="TLL MUSIC",LIVESAI Music TV
@@ -894,45 +894,5 @@ http://uk1.zecast.com:1935/star-live/shakthi/chunklist.m3u8
 http://185.180.12.42/mylive/capital/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL-TAM: Pakalavan TV" tvg-logo="http://7starcloud.in/pak.png" group-title="TLL cloud tamil",Pakalavan TV
 http://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8
-
-#singapore
-#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Vasantham2008.svg/revision/latest/scale-to-width-down/300?cb=20190810160718" group-title="TLL cloud tamil",Vasantham TV(Singapore)
-https://tglmp03.akamaized.net/out/v1/230bc7050839446b87c86268df536ab6/master.m3u8
-#EXTINF:-1 tvg-id="Vasantham.sg"  tvg-name="Vasantham" tvg-country="SG" tvg-language="English;Tamil" tvg-logo="" group-title="TLL cloud tamil",Vasantham [Geo-blocked]
-https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
-#EXTINF:-1 tvg-id=""  tvg-name="Astro Vaanavil" tvg-logo="https://singamcloud.com/tv/upload/1622173663_astro vanavill.png" group-title="TLL cloud tamil",Astro Vaanavil [Geo-blocked]
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5_04.m3u8
-
-#Australia
-#EXTINF:-1 tvg-id="" tvg-name="AUS-TAM: AUS Tamil TV" tvg-logo="https://austamil.tv/wp-content/uploads/2022/05/Aus-Logo.png" group-title="TLL cloud tamil",AUS-TAM: AUS Tamil TV
-https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AUS-TAM: AUS Tamil TV - L2" tvg-logo="http://nammaoorutv.com/dashboard/upicons/unnamed (8).png" group-title="TLL cloud tamil",AUS-TAM: AUS Tamil TV - L2
-http://198.144.149.82:8080/AUS_TAMIL/index.m3u8?token=GTR
-
-
-#Canada
-#EXTINF:-1 tvg-id="" tvg-name="CA-TAM: Sooriyan TV" tvg-logo="http://4.bp.blogspot.com/-NrERiata954/YEBS8j5r78I/AAAAAAAABU4/1BNo8cCPdwQyutq0D6Z7G1Ew21WAeZzhwCK4BGAYYCw/s1600/Sooriyantv%2BNews%2Blogo_1.png" group-title="TLL cloud tamil",CA-TAM: Sooriyan TV
-https://castor.streamthatvideo.co:8081/sooriyantv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA-TAM: Sooriyan TV - L2" tvg-logo="http://4.bp.blogspot.com/-NrERiata954/YEBS8j5r78I/AAAAAAAABU4/1BNo8cCPdwQyutq0D6Z7G1Ew21WAeZzhwCK4BGAYYCw/s1600/Sooriyantv%2BNews%2Blogo_1.png" group-title="TLL cloud tamil",CA-TAM: Sooriyan TV- L2
-http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CA-TAM: IBC Tamil Canada TV" tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/canada.png" group-title="TLL cloud tamil",CA-TAM: IBC Tamil Canada TV
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
-
-#EXTINF:-1 tvg-id="TamilVisionTV.ca" tvg-country="CA;IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="TLL cloud tamil",Tamil Vision TV (1080p)
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-# https://live.tamilvision.tv/TVI/HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="montamil.ca" tvg-name="CA-TAM: Mon tamil tv" tvg-logo="https://secureservercdn.net/192.169.221.188/108.2ed.myftpupload.com/wp-content/uploads/2020/06/montamilwhite_599x98v1.png" group-title="TLL cloud tamil",CA-TAM: Mon tamil tv
-https://castor.streamthatvideo.co:8081/sooriyantv/index.m3u8
-#EXTINF:-1 tvg-id="montamil.ca" tvg-name="CA-TAM: Mon tamil tv -L2" tvg-logo="http://nammaoorutv.com/dashboard/upicons/montamil_599x98v1.png" group-title="TLL cloud tamil",CA-TAM: Mon tamil tv - L2
-http://198.144.149.82:8080/MONTAMIL_CINEMA/index.m3u8?token=GTR
-
-#UK
-#EXTINF:-1 tvg-id="britaintamil.com" tvg-name="UK-TAM: Britain Tamil" tvg-logo="https://www.britaintamil.com/uploads/logo/logo_6145e134af469.png" group-title="TLL cloud tamil",UK-TAM: Britain Tamil
-https://brtam.akamaized.net/btamil/smil:btamil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="athavantv.com" tvg-name="UK-TAM: Adhavan TV" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png" group-title="TLL cloud tamil",UK-TAM: Adhavan TV
-http://45.77.66.224:1935/athavantv/live_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="ttn.tv" tvg-name="UK-TAM: TTN TV" tvg-logo="https://ttn.tv/public/logo.png" group-title="TLL cloud tamil",UK-TAM: TTN - France
-https://cdn3.wowza.com/5/Q3hYZzZnd1FDR3Z1/live/ttnlive/playlist.m3u8
 
 #Ending
