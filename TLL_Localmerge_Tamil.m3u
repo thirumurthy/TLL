@@ -311,6 +311,10 @@ http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
 http://7starcloud.com:1935/nilatv/livetv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/P9wuarZwGcZLHAlPRPPFgR-FH798KEr2lNNAgD_Jv3yLvTSD50vlW5JciFHPjs-RtVk=w240-h480-rw" group-title="TLL LOCAL HD", Universe TV
 https://account24.livebox.co.in/UNIVERSETVhls/live.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/vlsz7Sg7MZfHBl36jvoAi34cnoWaUm5hqfnmhmZjIe-0ERa3qUCXqYXL1mLXx_iSfg=w240-h480-rw" group-title="TLL LOCAL HD", Mirchi HD TV
+http://new.7starcloud.com:1935/mercy/live/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/p1B4pyWoxYu599TLLA_MVac6oBdb-GXSIEjiD8ySsA4dYXlZwLIkkDz7vBheZBFUz3bZ=w240-h480-rw" group-title="TLL LOCAL HD", Varnam TV
+rtmp://183.87.51.10:1935/stream/varnamtv?pass=20000
 
 
 #EXTM3U TLL Tamil LCO
@@ -329,10 +333,6 @@ http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
 http://livematrix.in:80/bamahd/bamahd.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/hXvjxy0OFZXXAg5JE7tKczHt9Ajpuw50X8yeQTfroUNXrIUwdOvh0kKfQRZ8PKAum29_=w240-h480-rw" group-title="TLL Tamil LCO",Cheran TV
 http://web.applelive.in/hls/cherantv.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/vlsz7Sg7MZfHBl36jvoAi34cnoWaUm5hqfnmhmZjIe-0ERa3qUCXqYXL1mLXx_iSfg=w240-h480-rw" group-title="TLL Tamil LCO",Mirchi TV 
-http://new.7starcloud.com:1935/mercy/live/playlist.m3u8
-#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/p1B4pyWoxYu599TLLA_MVac6oBdb-GXSIEjiD8ySsA4dYXlZwLIkkDz7vBheZBFUz3bZ=w240-h480-rw" group-title="TLL Tamil LCO",Varnam TV 
-rtmp://183.87.51.10:1935/stream/varnamtv?pass=20000
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/ipNLjnWHp41wBRC3zHFUevgLYpnFgRBAV2T_6ysUTpy1JQdldRlv5Mm-cMdosi4rf3yb=w480-h960-rw" group-title="TLL Tamil LCO",Chakra TV
 http://shinestream.in:1935/chakratv/chakratv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1602166664_VIP.png" group-title="TLL Tamil LCO", VIP Hari TV
