@@ -168,6 +168,8 @@ http://live.singamcloud.in/rtv/rtv/index.m3u8
 http://singamcloud.in/jeevantv/jeevantv/index.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/vx3wHRwscG5NQ-q9F9IK9DpQ1McFofviYKvE4sa9xJit2qujpEeCjI8cHvfk0kjxB6Q=w240-h480-rw" group-title="TLL LOCAL HD", Periyar Vision
 http://live.singamcloud.in/pvnews/pvnews/index.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/u_9HfzLpelf8ZMqCPBK4ce0oMUw1dYHgcoAWERJ04CahYuOi-ELrI8tnb3noU-V5WA=w240-h480-rw" group-title="TLL LOCAL HD",HIFI TV 
+http://stream.applelive.in:8000/appletv/hifitv/bms.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/gXp1TGq8_eBaX_7P65GOjgT4w2yOmJwXy954VhDBfGZHp51QcBnMC87MCqCre1pTtDUm=w240-h480-rw" group-title="TLL LOCAL HD", Rishi tv
 http://singamcloud.in/rishitv/rishitv/index.m3u8
 #EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/QYrdCO51kpYXwWJAWn-rxuQnH1gmENN64SULFaK2jp8JZfTkNnZCU8XOXXDJ5d2ZYTg=w240-h480-rw" group-title="TLL LOCAL HD",VDS TV
