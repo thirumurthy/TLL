@@ -6,6 +6,10 @@ http://singamcloud.in/riotv/riotv/index.m3u8
 http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1616494049_abm.png" group-title="TLL MUSIC", ABM HD TV
 http://singamcloud.in/abmtv/abmtv/index.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1597734373_sana.png" group-title="TLL MUSIC", Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/platlist.m3u8
+#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1670049765_snanplus.png" group-title="TLL MUSIC", Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTINF:-1,tvg-logo=  "https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title= "TLL MUSIC",Vmuisk TV
 https://server.iptelevision.in/hls/vmuisk.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/EVu_Gti6T4ix6H2ZJH8BtWfkHdcCQzVqn5K1RVk1i-ScaObyFlQTDrOiYHNoUKhCKQ=w240-h480-rw" group-title="TLL MUSIC",Vanavil Plus TV
@@ -14,6 +18,10 @@ https://rasi.iptelevision.in/hls/vanaviltv.m3u8
 https://server1.iptelevision.in/vanaviltvtn.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/NA8O_CP6g-UxPf5-YAjjo3o__EmjTnZHuoIbeO9mFQmmc0iOWPS6wmRCC476fYaIhZT9=w240-h480-rw" group-title="TLL MUSIC",Sai TV
 https://sscloud7.com/hls/saitv.m3u8
+#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsmcvHd.jpg?alt=media&token=cc8ed83c-643f-4b6e-8baa-9dfafff067a7" " group-title="TLL MUSIC", SMCV TV
+http://singamcloud.in/smcvtv/smcvtv/index.m3u8
+#EXTINF:-1, tvg-logo="https://www.tamilolitv.com/uploads/logo/logo_5cdb296cd50d4.png" group-title="TLL MUSIC",TAMILOLI TV
+https://account9.livebox.co.in/tamilolitvhls/live.m3u8
 #EXTINF:-1, tvg-logo="https://singamcloud.com/tv/upload/1671547589_FINAL;.PNG" group-title="TLL MUSIC", Agni TV
 https://live.singamcloud.in/agnitv/agnitv/index.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/sJXCrQz/kalai-isai.png" group-title="TLL MUSIC",KALAI ISAI 
@@ -48,10 +56,6 @@ http://stream.applelive.in:8000/appletv/appletv/bms.m3u8
 http://singamcloud.in/singamtv/singamtv/index.m3u8
 #EXTINF:-1, tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG6917.png" group-title="TLL MUSIC", Params TV
 http://7starcloud.com:1935/live/params/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsmcvHd.jpg?alt=media&token=cc8ed83c-643f-4b6e-8baa-9dfafff067a7" " group-title="TLL MUSIC", SMCV TV
-http://singamcloud.in/smcvtv/smcvtv/index.m3u8
-#EXTINF:-1, tvg-logo="https://www.tamilolitv.com/uploads/logo/logo_5cdb296cd50d4.png" group-title="TLL MUSIC",TAMILOLI TV
-https://account9.livebox.co.in/tamilolitvhls/live.m3u8
 #EXTINF:-1, tvg-logo="https://www.sankarankovil.com/img/clients/aaryatv-logo-new.jpg" group-title="TLL MUSIC",AARYA TV
 http://bmlive.net:8000/aaryaatv/aaryaatvlive/bms.m3u8
 #EXTINF:-1, tvg-logo="https://i.ibb.co/FHqrGQR/nagaramtv.jpg" group-title="TLL MUSIC",NAGARAM TV 
@@ -676,10 +680,6 @@ http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
 http://bmlive.net:8000/kingtv/kingtvhd/bms.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/bc6x5HeOLaPSyTrocVmSzVx8XrrsTJgXrrLvyN9NTB0Ma2AwV5SpTXFItwmiKw4Kff4W=w240-h480-rw" group-title="TLL_Harisofttech",SK TV  
 http://hdserver.7starcloud.com:1935/sharvesh/sktv/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1597734373_sana.png" group-title="TLL_Harisofttech", Sana TV
-http://7starcloud.com:1935/sanatv/sanatv/platlist.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1670049765_snanplus.png" group-title="TLL_Harisofttech", Sana Plus
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669968335_vinmusic.jpg" group-title="TLL_Harisofttech", Vinayaga Music
 http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://harisofttecch.in/tamillive//upload/1669968374_vinhd.jpg" group-title="TLL_Harisofttech", Vinayaga HD TV
