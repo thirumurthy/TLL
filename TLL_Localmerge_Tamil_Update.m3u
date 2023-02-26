@@ -50,8 +50,6 @@ http://singamcloud.in/singamtv/singamtv/index.m3u8
 http://7starcloud.com:1935/live/params/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FsmcvHd.jpg?alt=media&token=cc8ed83c-643f-4b6e-8baa-9dfafff067a7" " group-title="TLL MUSIC", SMCV TV
 http://singamcloud.in/smcvtv/smcvtv/index.m3u8
-#EXTINF:-1, tvg-logo="https://harisofttecch.in/tamiltvlive//upload/1658129475_OmTV.jpg" group-title="TLL MUSIC", OM TV
-http://hdserver.7starcloud.com:1935/omtv/live/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.tamilolitv.com/uploads/logo/logo_5cdb296cd50d4.png" group-title="TLL MUSIC",TAMILOLI TV
 https://account9.livebox.co.in/tamilolitvhls/live.m3u8
 #EXTINF:-1, tvg-logo="https://www.sankarankovil.com/img/clients/aaryatv-logo-new.jpg" group-title="TLL MUSIC",AARYA TV
@@ -620,14 +618,10 @@ http://subashtv.phoenixcreations.online:1935/subashtv/subashtv/playlist.m3u8
 http://omtv.phoenixcreations.online:1935/live/omtv/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/mithratv.png" group-title="Phoenix Creations", Mithra TV
 http://mithratv.phoenixcreations.online:1935/mithratv/mithratv/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/mayuritv.png" group-title="Phoenix Creations", Mayuri TV
-http://mayuritv.phoenixcreations.online:1935/mayuritv/mayuritvtenkasi/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://hellophoenix.online/server2/sasitv/img/core-img/favicon.ico" group-title="Phoenix Creations",Sasi TV 
 http://sasitv.phoenixcreations.online:1935/sasitv/sasitv/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://hellophoenix.online/server2/t24tv/img/core-img/t24tv.png" group-title="Phoenix Creations",T24 TV 
 http://t24tv.phoenixcreations.online:1935/t24tv/t24tv/playlist.m3u8
-#EXTINF:-1,tvg-logo="http://hellophoenix.online/server2/vishnutv/img/core-img/vishnutv.png" group-title="Phoenix Creations",Vishnu TV 
-http://vishnutv.phoenixcreations.online:1935/vishnutv/vishnutv/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://hellophoenix.online/server2/vimaltv/img/core-img/vimaltv.png" group-title="Phoenix Creations",Vimal TV 
 http://vimaltv.phoenixcreations.online:1935/live/vimaltv/playlist.m3u8
 #EXTINF:-1,tvg-logo="http://hellophoenix.online/server2/sarathatv/img/core-img/sarathatv.png" group-title="Phoenix Creations",Saratha TV 
@@ -640,16 +634,10 @@ http://sachintv.phoenixcreations.online:1935/live/sachintv/playlist.m3u8
 http://skymedia.phoenixcreations.online:1935/live/skymedia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/OVdwUScDMv8cbhiVbeA66MEgKDgDRpzZw1JQahCDOgvrNDremjXZJM4uL-D2VE2WggJT=w480-h960-rw" group-title="Phoenix Creations",RAGHUL TV
 http://server1.phoenixcreations.online:1935/live/raghultv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/c0QQntk1Dh1qoRte2HUYdVdiue-HePcAU8jq2srS0lEpTrDQ3EziTdaRj0PUm4KJlGs=w480-h960-rw" group-title="Phoenix Creations",TOP TV
-http://server3.phoenixcreations.online:1935/live/toptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/D8XdTvNaO4rS038acfQ1dnjXArh7rlkTl-SyNc-bHayck_v8IVhT-NbOxB4mXzmZpSk=w480-h960-rw" group-title="Phoenix Creations",LIME TV
 http://limetv.phoenixcreations.online:1935/live/limetv/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/maatv.png" group-title="Phoenix Creations", MAA TV
-http://live.singamcloud.in:1935/maatv/maatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/vZ18yiS9gOenA4opyOQR00F-Zfkf2gYJSVEUPSOPrl8J5JzT1Pl-Wdss0KD2sBlfo08=w240-h480-rw" group-title="Phoenix Creations", PHEONIX HD 
 http://server2.phoenixcreations.online:5080/live/streams/phoenixtv.m3u8
-#EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/core-img/ddtv.png" group-title="Phoenix Creations", DD TV
-http://ddtv.phoenixcreations.online:1935/ddtv/ddtv/playlist.m3u8
 #EXTINF:-1, tvg-logo="http://hellophoenix.online/server2/phoenixtv/img/livetv/sr7tvlivebanner.png" group-title="",SR7 TV 
 http://sr7tv.phoenixcreations.online:1935/sr7tv/sr7tv/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/bHsuYmx55Izpn6SQxKmWbBHAsojgkQ7LcAVuP_4UuEft3v0LDeuxZUFpLniSzqLb8v81=w240-h480-rw" group-title="Phoenix Creations",MALAR TV UHD 
