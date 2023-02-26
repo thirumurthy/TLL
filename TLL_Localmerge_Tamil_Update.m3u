@@ -154,8 +154,10 @@ https://server1.iptelevision.in/hls/actv.m3u8
 https://mobile.iptelevision.in/hls/accordvoice.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/vlsz7Sg7MZfHBl36jvoAi34cnoWaUm5hqfnmhmZjIe-0ERa3qUCXqYXL1mLXx_iSfg=w240-h480-rw" group-title="TLL LOCAL HD", Mirchi HD TV
 http://new.7starcloud.com:1935/mercy/live/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/p1B4pyWoxYu599TLLA_MVac6oBdb-GXSIEjiD8ySsA4dYXlZwLIkkDz7vBheZBFUz3bZ=w240-h480-rw" group-title="TLL LOCAL HD", Varnam TV
-rtmp://183.87.51.10:1935/stream/varnamtv?pass=20000
+#EXTINF:-1,tvg-logo="http://7starcloud.in/tamilcloud/uploads/images/channel_IMG98811.png" group-title="TLL LOCAL HD",Ashoka2 HD TV 
+http://stream.ashokaserver.in/hls/ashokatv2.m3u8
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/xuxOWfy4H7mR7gLArPXNK9gcZX3vGiriNxTD2P84ZHTQpRrMTmr870wBgmQQkSGEYTU=w240-h480-rw" group-title="TLL LOCAL HD",SMAX TV 
+http://web.applelive.in/hls/smax.m3u8
 #EXTINF:-1,tvg-logo="http://nammaoorutv.com/dashboard/upicons/IMG_20221229_111656_094.jpg" group-title="TLL LOCAL HD",Kalam TV
 http://web.applelive.in/hls/kalamtv.m3u8
 #EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/oQbtzxc-fO-3_swoJXIDPRru5WLRbAk3IsBMnct0H3lKFLlYf7iwVtVWfJV55gR0Aw=w240-h480-rw" group-title="TLL LOCAL HD", Blue Sky Media
